@@ -23,3 +23,4 @@ Please use the above channels even if you are not interested in a bounty reward.
 Please do not publicly disclose details until Mozilla's security team and the MDN engineering team have verified and fixed the issue.
 
 We appreciate your efforts to keep MDN and its users safe.
+testing devsecops pipeline
